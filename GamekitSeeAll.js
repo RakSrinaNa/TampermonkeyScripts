@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Gamekit SeeAll
 // @namespace    http://tampermonkey.net/
-// @version      0.4
+// @version      0.5
 // @description  Add a button to reveal all quests in GameKit
 // @author       MrCraftCod
 // @match        https://gamekit.com/*/*
