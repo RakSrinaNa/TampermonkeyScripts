@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Gamekit SeeAll
 // @namespace    http://tampermonkey.net/
-// @version      0.3
-// @description  try to take over the world!
+// @version      0.4
+// @description  Add a button to reveal all quests in GameKit
 // @author       MrCraftCod
 // @match        https://gamekit.com/*/*
 // @grant        none
@@ -15,7 +15,6 @@
         $('#revealAll').click(function(){
             revealAll();
         });
-        setTimeout(revealAll, 1000);
     });
 })();
 
