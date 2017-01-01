@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Gamekit SeeAll
-// @namespace    http://tampermonkey.net/
-// @version      0.7
+// @namespace    fr.mrcraftcod
+// @version      0.8
 // @description  Add a button to reveal all quests in GameKit
 // @author       MrCraftCod
 // @match        https://gamekit.com/*/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/MrCraftCod/TampermonkeyScripts/master/GamekitSeeAll.js
-// @downloadURL  https://raw.githubusercontent.com/MrCraftCod/TampermonkeyScripts/master/GamekitSeeAll.js
+// @updateURL    https://raw.githubusercontent.com/MrCraftCod/TampermonkeyScripts/master/GamekitSeeAll/GamekitSeeAll.js
+// @downloadURL  https://raw.githubusercontent.com/MrCraftCod/TampermonkeyScripts/master/GamekitSeeAll/GamekitSeeAll.js
 // ==/UserScript==
 
 (function() {
