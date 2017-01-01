@@ -13,7 +13,7 @@
 (function() {
     'use strict';
     $(document).ready(function(){
-        $(".fast-menu__nav").append('<a href="javascript:void(0);" id="revealAll" done="false">Reveal quests</a>');
+        $("#others-tab-basic").append('<a href="javascript:void(0);" id="revealAll" done="false">Reveal quests</a>');
         $('#revealAll').click(function(){
             revealAll();
         });
