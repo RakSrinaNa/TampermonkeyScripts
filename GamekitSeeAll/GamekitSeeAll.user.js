@@ -6,8 +6,8 @@
 // @author       MrCraftCod
 // @match        https://gamekit.com/*/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/MrCraftCod/TampermonkeyScripts/master/GamekitSeeAll/GamekitSeeAll.js
-// @downloadURL  https://raw.githubusercontent.com/MrCraftCod/TampermonkeyScripts/master/GamekitSeeAll/GamekitSeeAll.js
+// @updateURL    https://raw.githubusercontent.com/MrCraftCod/TampermonkeyScripts/master/GamekitSeeAll/GamekitSeeAll.user.js
+// @downloadURL  https://raw.githubusercontent.com/MrCraftCod/TampermonkeyScripts/master/GamekitSeeAll/GamekitSeeAll.user.js
 // ==/UserScript==
 
 (function() {
