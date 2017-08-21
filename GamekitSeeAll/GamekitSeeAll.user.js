@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Gamekit SeeAll
 // @namespace    fr.mrcraftcod
-// @version      0.8
+// @version      0.9
 // @description  Add a button to reveal all quests in GameKit
 // @author       MrCraftCod
 // @match        https://gamekit.com/*/*
