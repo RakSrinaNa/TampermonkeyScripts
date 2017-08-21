@@ -1,4 +1,4 @@
-#GamekitSeeAll
+# GamekitSeeAll
 
 Add a button to reveal all quests in GameKit
 
@@ -9,3 +9,6 @@ Add a button to reveal all quests in GameKit
 <img style="width:65%" src="https://github.com/MrCraftCod/TampermonkeyScripts/raw/master/GamekitSeeAll/2.jpg"/>
 * See the upcoming tasks in the bottom bar:
 <img style="width:65%" src="https://github.com/MrCraftCod/TampermonkeyScripts/raw/master/GamekitSeeAll/3.png"/>
+
+## Github repo
+The code is synchronized from [this github repo](https://github.com/MrCraftCod/TampermonkeyScripts/tree/master/GamekitSeeAll).
