@@ -5,6 +5,7 @@
 // @description  Add a button to reveal all quests in GameKit
 // @author       MrCraftCod
 // @match        https://gamekit.com/*/*
+// @match        https://dogry.pl/*/*
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/MrCraftCod/TampermonkeyScripts/master/GamekitSeeAll/GamekitSeeAll.user.js
 // @downloadURL  https://raw.githubusercontent.com/MrCraftCod/TampermonkeyScripts/master/GamekitSeeAll/GamekitSeeAll.user.js
